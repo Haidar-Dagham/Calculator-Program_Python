@@ -12,6 +12,15 @@ A simple yet functional **GUI calculator** built with Python and Tkinter. This c
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <strong>'Calculator Program' Desktop View</strong><br>
+  <img src="Screenshot.png" width="600" alt="Desktop Screenshot">
+</p>
+
+---
+
 ## 🚀 Running the Application
 
 ### 🔧 From Source (Python Script)
